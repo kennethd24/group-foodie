@@ -11,10 +11,10 @@ Browser based app for mobile experience of scheduling a group food order
 	
 ## Technologies
 Project is created with:
-* React version: 17.02
-* Redux version 4.1.0
-* Express version: 4.17.1
-* Postgres version: 8.6.0
+* React/Redux
+* Express
+* PostgreSQL
+* Styled-components
 	
 ## Setup
 ### Seed Initial Database (WIP)
